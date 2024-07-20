@@ -23,17 +23,7 @@ export default {
       secondarytext : '#757575',
       textwhite : '#fafafa'
     },
-    fontSize:{
-      large: '8rem',
-      heading : ['2rem',{
-        lineHeight : '1.3rem',
-        fontWeight : '500' 
-      }],
-      para : ['1rem',{
-        lineHeight : '1.3rem',
-        fontWeight :'400'
-      }]
-    }
+    
   },
   plugins: [],
 }
